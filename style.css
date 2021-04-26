@@ -171,7 +171,42 @@ p{
     }
 }
 
-    
+input{
+    width: 30%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=text]{
+
+    border: 2px solid #000;
+    background-color: #ffe9d6;
+}
+
+.form-container{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.button-shop{
+    width: 10%;
+    height: 30px;
+    background-color: #ffe9d6;
+    border-radius: 3px;
+}
+
+.button-checkout{
+    width: 10%;
+    height: 30px;
+    background-color: #ff9a3d;
+    border-radius: 3px;
+}
+
+table{
+    text-align: center;
+}
 
 
 
